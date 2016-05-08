@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/a15n/voto#readme",
   "dependencies": {
-    "httpdispatcher": "^1.0.0"
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "httpdispatcher": "^1.0.0",
+    "mongoose": "~3.6.13"
   }
 }
