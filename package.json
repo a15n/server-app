@@ -1,0 +1,26 @@
+{
+  "name": "voto",
+  "version": "0.0.1",
+  "description": "voto app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a15n/voto.git"
+  },
+  "keywords": [
+    "voto"
+  ],
+  "author": "a15n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a15n/voto/issues"
+  },
+  "homepage": "https://github.com/a15n/voto#readme",
+  "dependencies": {
+    "httpdispatcher": "^1.0.0"
+  }
+}
